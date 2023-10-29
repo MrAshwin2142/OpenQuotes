@@ -26,7 +26,7 @@ For example:
 ```shell
 git clone git@github.com:this-is-you/openquotes.git
 ```
-3. Create a Branch
+### 3. Create a Branch
 Change to the repository directory on your computer (if you're not already there):
 
 ```shell
@@ -40,7 +40,7 @@ git switch -c add-your-name
 
 Replace add-your-name with a branch name that describes your contribution.
 
-4. Make Changes and Commit
+### 4. Make Changes and Commit
 Open the quotes.js file in a text editor, add your favorite quote and your name to the array of quotes.
 
 Save the file, and then in your terminal, execute the following commands:
@@ -52,19 +52,20 @@ git commit -m "Add your quote and name to the collection"
 ```
 Replace "Add your quote and name to the collection" with a meaningful commit message.
 
-5. Push Changes to GitHub
+### 5. Push Changes to GitHub
 Push your changes to your GitHub repository with:
 
 ```shell
 git push -u origin add-your-name
 ```
 
-6. Create a Pull Request
+### 6. Create a Pull Request
 Navigate to your GitHub repository.
 Click the "Pull Request" button.
 Follow the prompts to create a pull request.
 
-7. Celebrate Your Contribution
+### 7. Celebrate Your Contribution
 You've completed the standard fork, clone, edit, and pull request workflow. Congrats on your contribution to OpenQuotes! Share your contribution with friends and followers and celebrate your open source journey.
 
-
+### 8. Spread the Inspiration
+Share your contribution and our project with your friends and followers. Encourage them to join the open source community and start their own journey. Together, we can inspire and make the world a better place, one quote at a time.

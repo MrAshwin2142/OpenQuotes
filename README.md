@@ -5,15 +5,17 @@
 This project aims to simplify and guide the way beginners make their first open source contribution. If you're looking to contribute your favorite quotes and be part of our journey to inspire the world, follow the steps below.
 
 ## How to Contribute
+<img align="right" width="300" src="images/fork.png" alt="fork this repository" />
 
 ### 1. Fork this Repository
 
-If you don't have Git on your machine, install it first.
+If you don't have Git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
 - Fork this repository by clicking on the "Fork" button at the top of this page. This creates a copy of the repository in your GitHub account.
-
+- Don't forget to click the "Star" button at the top right of the repository page to show your support!
 ### 2. Clone the Repository
 
+<img align="right" width="300" src="images/copy.png" alt="clone this repository" />
 - Clone your forked repository to your local machine. In your GitHub account, navigate to your forked repository and click the "Code" button. Copy the URL.
 
 - Open your terminal and run the following command, replacing `"url you just copied"` with the URL you copied:

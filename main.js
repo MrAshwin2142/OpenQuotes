@@ -7,7 +7,8 @@ function displayQuote() {
   const currentQuote = quotes[currentQuoteIndex];
   quoteElement.textContent = currentQuote.quote;
   authorElement.innerHTML = `by : <a href="${currentQuote.profilLink}" target="_blank">${currentQuote.name}</a>`;
-  currentQuoteIndex = Math.floor(Math.random() * quotes.length)
+  // currentQuoteIndex = Math.floor(Math.random() * quotes.length)
+  currentQuoteIndex = (currentQuoteIndex + 1) % quotes.length ;
 }
 
 // Initial display

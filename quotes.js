@@ -9,6 +9,11 @@ const quotes = [
         name: "Code Gallery",
         profilLink: "https://www.linkedin.com/company/code-gallery01/",
     },
+    {
+        quote:"कर्म करो और फल की चिंता मत करो - Lord Krishna",
+        name: "Ashwin Dhangar",
+        profilLink: "https://github.com/MrAshwin2142",
+    },
     
     // Add more objects with quotes, names, and Profile  links
     // {

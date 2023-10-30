@@ -4,6 +4,11 @@ const quotes = [
         name: "Ashwin Dhangar",
         profilLink: "https://github.com/MrAshwin2142",
     },
+    {
+        quote:"Stop dreaming big and start with small actions, just like I did for my first open-source contribution.",
+        name: "Code Gallery",
+        profilLink: "https://www.linkedin.com/company/code-gallery01/",
+    },
     
     // Add more objects with quotes, names, and Profile  links
     // {

@@ -8,7 +8,6 @@
   "commitConvention": "angular",
   "contributors": [
     {
-
       "login": "MrAshwin2142",
       "name": "Ashwin Dhangar",
       "avatar_url": "https://avatars.githubusercontent.com/u/89156541?v=4",
@@ -37,7 +36,16 @@
       "contributions": [
         "code"
       ]
-     }
+    },
+    {
+      "login": "Delta7Actual",
+      "name": "Delta7Actual",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142044822?v=4",
+      "profile": "https://github.com/Delta7Actual",
+      "contributions": [
+        "code"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "skipCi": true,

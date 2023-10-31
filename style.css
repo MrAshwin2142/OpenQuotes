@@ -37,3 +37,14 @@ h1 {
 .contribute-section a:hover {
   text-decoration: underline;
 }
+@media screen and (max-width: 480px) {
+  .container{
+    max-width: 98%;
+  }
+}
+@media screen and (max-width: 720px) {
+  .container{
+    max-width: 90%;
+  }
+}
+

@@ -15,6 +15,18 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "MrAshwin2142",
+      "name": "Ashwin Dhangar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89156541?v=4",
+      "profile": "https://ashwin-portfolioo.netlify.app/#",
+      "contributions": [
+        "code",
+        "content",
+        "design",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,

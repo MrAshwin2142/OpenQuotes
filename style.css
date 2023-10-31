@@ -1,14 +1,33 @@
+p {
+  font-size: 1em;
+  line-height: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+a {
+  text-decoration: none;
+}
+
 body {
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Arial, Helvetica, sans-serif";
   background-image: url(images/Background\ sakura\ image.jpg);
   background-attachment: fixed;
+  background-position: center;
   background-size: cover;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100vh;
+  width: 100vw;
   margin: 0;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
 .container {
@@ -18,16 +37,11 @@ body {
   color: #333;
 }
 
-h1 {
-  font-size: 34px;
-}
-
 .contribute-section {
   display: block;
   position: fixed;
   bottom: 20px;
   text-align: center;
-  font-size: 18px;
 }
 
 .contribute-section a {
@@ -48,3 +62,25 @@ h1 {
   }
 }
 
+@media screen and (max-width: 300px) {
+  body {
+    font-size: 10px;
+  }
+}
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+  body {
+    font-size: 18px;
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  body {
+    font-size: 20px;
+  }
+}

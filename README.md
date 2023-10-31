@@ -4,6 +4,8 @@
 
 This project aims to simplify and guide the way beginners make their first open source contribution. If you're looking to contribute your favorite quotes and be part of our journey to inspire the world, follow the steps below.
 
+**Live App Link:** [OpenQuotes Live App](https://mrashwin2142.github.io/OpenQuotes/)
+
 ## How to Contribute
 <img align="right" width="300" src="images/fork.png" alt="fork this repository" />
 

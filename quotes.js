@@ -14,11 +14,15 @@ const quotes = [
         name: "Ashwin Dhangar",
         profilLink: "https://github.com/MrAshwin2142",
     },
-    {
-        quote:"Just trying to learn how to use Git and Github properly by contributing",
+    {   quote:"Just trying to learn how to use Git and Github properly by contributing",
         name: "Vivek Mandloi",
         profilLink: "https://github.com/VveksGit/",
     },
+    {   quote:"The stars above remind us that even the smallest lights can illuminate the darkest skies.",
+        name: "John Patrick Ancajas",
+        profilLink: "https://github.com/JohnPatrickAncajas",
+    },
+     
     
     // Add more objects with quotes, names, and Profile  links
     // {

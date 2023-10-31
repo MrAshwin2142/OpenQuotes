@@ -6,6 +6,18 @@ This project aims to simplify and guide the way beginners make their first open 
 
 **Live App Link:** [OpenQuotes Live App](https://mrashwin2142.github.io/OpenQuotes/)
 
+## Contributors
+Thanks to all our amazing contributors who have helped make OpenQuotes an inspiring and collaborative project!
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## How to Contribute
 <img align="right" width="300" src="images/fork.png" alt="fork this repository" />
 

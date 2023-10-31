@@ -22,6 +22,7 @@ Thanks to all our amazing contributors who have helped make OpenQuotes an inspir
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/codeGallery01"><img src="https://avatars.githubusercontent.com/u/149365387?v=4?s=100" width="100px;" alt="codeGallery01"/><br /><sub><b>codeGallery01</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=codeGallery01" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JohnPatrickAncajas"><img src="https://avatars.githubusercontent.com/u/143093214?v=4?s=100" width="100px;" alt="Patrick"/><br /><sub><b>Patrick</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=JohnPatrickAncajas" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/VveksGit"><img src="https://avatars.githubusercontent.com/u/140075634?v=4?s=100" width="100px;" alt="Vivek Mandloi"/><br /><sub><b>Vivek Mandloi</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=VveksGit" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/devraushan"><img src="https://avatars.githubusercontent.com/u/100012376?v=4?s=100" width="100px;" alt="devraushan"/><br /><sub><b>devraushan</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=devraushan" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>

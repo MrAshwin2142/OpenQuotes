@@ -8,7 +8,6 @@
   "commitConvention": "angular",
   "contributors": [
     {
-
       "login": "MrAshwin2142",
       "name": "Ashwin Dhangar",
       "avatar_url": "https://avatars.githubusercontent.com/u/89156541?v=4",
@@ -37,7 +36,16 @@
       "contributions": [
         "code"
       ]
-     }
+    },
+    {
+      "login": "devraushan",
+      "name": "devraushan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100012376?v=4",
+      "profile": "https://github.com/devraushan",
+      "contributions": [
+        "code"
+      ]
+    }
   ],
   "contributorsPerLine": 7,
   "skipCi": true,

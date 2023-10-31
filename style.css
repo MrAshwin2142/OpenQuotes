@@ -15,7 +15,7 @@ a {
 
 body {
   font-family: "Arial, Helvetica, sans-serif";
-  background-image: url(images/Background\ sakura\ image.jpg);
+  background-image: url(images/Sakura.jpg);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -34,7 +34,7 @@ body {
   text-align: center;
   max-width: 60%;
   margin: 0 auto;
-  color: #333;
+  color: black;
 }
 
 .contribute-section {
@@ -75,11 +75,13 @@ body {
 @media screen and (max-width: 300px) {
   body {
     font-size: 10px;
+    background-position: right;
   }
 }
-@media screen and (min-width: 601px) and (max-width: 1024px) {
+@media screen and (min-width: 301px) and (max-width: 601px) {
   body {
     font-size: 14px;
+    background-position: right;
   }
 }
 

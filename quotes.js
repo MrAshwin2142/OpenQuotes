@@ -22,7 +22,10 @@ const quotes = [
         name: "John Patrick Ancajas",
         profilLink: "https://github.com/JohnPatrickAncajas",
     },
-     
+    {   quote:"Learn as if you will live forever, live like you will die tomorrow. — Mahatma Gandhi",
+        name:"Delta7Actual",
+        profilLink:"https://github.com/Delta7Actual",
+    },
     
     // Add more objects with quotes, names, and Profile  links
     // {

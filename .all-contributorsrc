@@ -8,6 +8,19 @@
   "commitConvention": "angular",
   "contributors": [
     {
+
+      "login": "MrAshwin2142",
+      "name": "Ashwin Dhangar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89156541?v=4",
+      "profile": "https://ashwin-portfolioo.netlify.app/#",
+      "contributions": [
+        "code",
+        "content",
+        "design",
+        "ideas"
+      ]
+    },
+    {
       "login": "codeGallery01",
       "name": "codeGallery01",
       "avatar_url": "https://avatars.githubusercontent.com/u/149365387?v=4",
@@ -24,7 +37,7 @@
       "contributions": [
         "code"
       ]
-    }
+     }
   ],
   "contributorsPerLine": 7,
   "skipCi": true,

@@ -18,8 +18,10 @@ Thanks to all our amazing contributors who have helped make OpenQuotes an inspir
 <table>
   <tbody>
     <tr>
+       <td align="center" valign="top" width="14.28%"><a href="https://ashwin-      
+portfolioo.netlify.app/#"><img src="https://avatars.githubusercontent.com/u/89156541?v=4?s=100" width="100px;" alt="Ashwin Dhangar"/><br /><sub><b>Ashwin Dhangar</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=MrAshwin2142" title="Code">💻</a> <a href="#content-MrAshwin2142" title="Content">🖋</a> <a href="#design-MrAshwin2142" title="Design">🎨</a> <a href="#ideas-MrAshwin2142" title="Ideas, Planning, & Feedback">🤔</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/codeGallery01"><img src="https://avatars.githubusercontent.com/u/149365387?v=4?s=100" width="100px;" alt="codeGallery01"/><br /><sub><b>codeGallery01</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=codeGallery01" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://ashwin-portfolioo.netlify.app/#"><img src="https://avatars.githubusercontent.com/u/89156541?v=4?s=100" width="100px;" alt="Ashwin Dhangar"/><br /><sub><b>Ashwin Dhangar</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=MrAshwin2142" title="Code">💻</a> <a href="#content-MrAshwin2142" title="Content">🖋</a> <a href="#design-MrAshwin2142" title="Design">🎨</a> <a href="#ideas-MrAshwin2142" title="Ideas, Planning, & Feedback">🤔</a></td>
+     
     </tr>
   </tbody>
 </table>

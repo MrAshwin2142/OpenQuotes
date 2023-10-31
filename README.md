@@ -1,4 +1,7 @@
 # OpenQuotes
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Welcome to OpenQuotes - Share Your Inspiration!**
 
@@ -9,6 +12,21 @@ This project aims to simplify and guide the way beginners make their first open 
 ## Contributors
 Thanks to all our amazing contributors who have helped make OpenQuotes an inspiring and collaborative project!
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/codeGallery01"><img src="https://avatars.githubusercontent.com/u/149365387?v=4?s=100" width="100px;" alt="codeGallery01"/><br /><sub><b>codeGallery01</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=codeGallery01" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->

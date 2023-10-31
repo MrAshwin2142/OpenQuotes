@@ -11,6 +11,11 @@ h1 {
 
 a {
   text-decoration: none;
+  color: #000080;
+}
+
+a:hover {
+  color: #0303d4;
 }
 
 body {
@@ -52,9 +57,10 @@ body {
   margin: 0;
 }
 
-.contribute-section a:hover {
-  text-decoration: underline;
+#author {
+  text-align: right;
 }
+
 @media screen and (max-width: 480px) {
   .container{
     max-width: 98%;

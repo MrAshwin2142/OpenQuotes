@@ -1,6 +1,6 @@
 # OpenQuotes
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Welcome to OpenQuotes - Share Your Inspiration!**
@@ -24,6 +24,7 @@ Thanks to all our amazing contributors who have helped make OpenQuotes an inspir
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Delta7Actual"><img src="https://avatars.githubusercontent.com/u/142044822?v=4?s=100" width="100px;" alt="Delta7Actual"/><br /><sub><b>Delta7Actual</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=Delta7Actual" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/VveksGit"><img src="https://avatars.githubusercontent.com/u/140075634?v=4?s=100" width="100px;" alt="Vivek Mandloi"/><br /><sub><b>Vivek Mandloi</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=VveksGit" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/devraushan"><img src="https://avatars.githubusercontent.com/u/100012376?v=4?s=100" width="100px;" alt="devraushan"/><br /><sub><b>devraushan</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=devraushan" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/YeiHuynh"><img src="https://avatars.githubusercontent.com/u/106680051?v=4?s=100" width="100px;" alt="YeiHuynh"/><br /><sub><b>YeiHuynh</b></sub></a><br /><a href="#ideas-YeiHuynh" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
 </table>

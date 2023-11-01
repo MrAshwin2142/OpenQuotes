@@ -26,6 +26,83 @@ const quotes = [
         name:"Delta7Actual",
         profilLink:"https://github.com/Delta7Actual",
     },
+    {   quote:"A greate product isn't just a collection of features. It's how it all works together. - Tim Cook",
+        name:"Pheb2014939ctu",
+        profilLink:"https://github.com/pheb2014939ctu",
+    },
+    {   quote:"The goal has never been to make the most. It's always been to make the best - Tim Cook",
+        name:"Pheb2014939ctu",
+        profilLink:"https://github.com/pheb2014939ctu",
+    },
+     {   quote:"You have to take action on the bad days to make the good days better",
+        name:"Pheb2014939ctu",
+        profilLink:"https://github.com/pheb2014939ctu",
+    },
+     {   quote:"You are somebody's reason to smile",
+        name:"Pheb2014939ctu",
+        profilLink:"https://github.com/pheb2014939ctu",
+    },
+     {  quote:"If you want it, work for it.",
+        name:"Pheb2014939ctu",
+        profilLink:"https://github.com/pheb2014939ctu",
+    },
+    {   quote:"The only way to do great work is to love what you do. - Steve Jobs",
+        name:"Pheb2014939ctu",
+        profilLink:"https://github.com/pheb2014939ctu",
+    },
+    {   quote:"Your time is limited, so don't waste it living someone else's life. - Steve Jobs",
+        name:"Pheb2014939ctu",
+        profilLink:"https://github.com/pheb2014939ctu",
+    },
+    {   
+        quote:"Change your thoughts and you change your world. - Norman Vincent Peale",
+        name:"Pheb2014939ctu",
+        profilLink:"https://github.com/pheb2014939ctu",
+    },
+    {   
+        quote:"The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt",
+        name:"Pheb2014939ctu",
+        profilLink:"https://github.com/pheb2014939ctu",
+    },
+    {   
+        quote:"Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill",
+        name:"Pheb2014939ctu",
+        profilLink:"https://github.com/pheb2014939ctu",
+    },
+    {   
+        quote:"Happiness is not something readymade. It comes from your own actions. - Dalai Lama",
+        name:"Pheb2014939ctu",
+        profilLink:"https://github.com/pheb2014939ctu",
+    },
+    {   quote:"Don't be afraid to lose what was never meant to be.",
+        name:"Pheb2014939ctu",
+        profilLink:"https://github.com/pheb2014939ctu",
+    },
+     {   quote:"One day you'll be at the place you always wanted to be.",
+        name:"Pheb2014939ctu",
+        profilLink:"https://github.com/pheb2014939ctu",
+    },
+     {   
+        quote:"The best way to predict the future is to create it. - Peter Drucker",
+        name:"Pheb2014939ctu",
+        profilLink:"https://github.com/pheb2014939ctu",
+    },
+     {   
+        quote:"Success is walking from failure to failure with no loss of enthusiasm. - Winston Churchill",
+        name:"Pheb2014939ctu",
+        profilLink:"https://github.com/pheb2014939ctu",
+    },
+    {   
+        quote:"Life is 10% what happens to us and 90% how we react to it. - Charles R. Swindoll",
+        name:"Pheb2014939ctu",
+        profilLink:"https://github.com/pheb2014939ctu",
+    },
+
+
+
+
+
+
     
     // Add more objects with quotes, names, and Profile  links
     // {

@@ -67,7 +67,7 @@ For example:
 git clone git@github.com:this-is-you/openquotes.git
 ```
 
-Íntall project: 
+Install project: 
 ```
 git clone https://github.com/MrAshwin2142/OpenQuotes.git
 ```

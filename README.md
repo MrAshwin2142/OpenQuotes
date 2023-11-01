@@ -1,6 +1,6 @@
 # OpenQuotes
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Welcome to OpenQuotes - Share Your Inspiration!**
@@ -28,6 +28,7 @@ Thanks to all our amazing contributors who have helped make OpenQuotes an inspir
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/HTQun"><img src="https://avatars.githubusercontent.com/u/141793785?v=4?s=100" width="100px;" alt="HTQun"/><br /><sub><b>HTQun</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=HTQun" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pheb2014939ctu"><img src="https://avatars.githubusercontent.com/u/97354858?v=4?s=100" width="100px;" alt="pheb2014939"/><br /><sub><b>pheb2014939</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=pheb2014939ctu" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>

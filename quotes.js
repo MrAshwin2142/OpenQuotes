@@ -27,10 +27,31 @@ const quotes = [
         profilLink:"https://github.com/Delta7Actual",
     },
     {   
-        quote:"Help others achieve their dreams and you will achieve yours. - Les Brown",
-        name:"Pheb2014939ctu",
-        profilLink:"https://github.com/pheb2014939ctu",
+        quote:"It is often the small steps, not the giant leaps, that bring about the most lasting change. - Elizabeth",
+        name:"Umar Farouk",
+        profilLink:"https://github.com/Fahass",
     },
+    {   
+        quote:"Failure is your first reward for trying. - Ameer Fahass",
+        name:"Umar Farouk",
+        profilLink:"https://github.com/Fahass",
+    },
+    {   
+        quote:"If you want to lift yourself up, lift up someone else. - Chadwick Bossman",
+        name:"Umar Farouk",
+        profilLink:"https://github.com/Fahass",
+    },
+    {   
+        quote:"You’re braver than you believe, stronger than you seem, and smarter than you think. - Ameer Fahass",
+        name:"Umar Farouk",
+        profilLink:"https://github.com/Fahass",
+    },
+    {   
+        quote:"Once you face your fear, nothing is ever as hard as you think. - Ameer Fahass",
+        name:"Umar Farouk",
+        profilLink:"https://github.com/Fahass",
+    },
+    
     // Add more objects with quotes, names, and Profile  links
     // {
     //     quote: "your quote or anything you want to share",

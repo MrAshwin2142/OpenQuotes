@@ -29,6 +29,7 @@ function displayQuote() {
   const currentQuote = quotes[randomIndex];
   quoteElement.textContent = currentQuote.quote;
   authorElement.innerHTML = `- <a href="${currentQuote.profilLink}" target="_blank">${currentQuote.name}</a>`;
+
 }
 
 // Initial display

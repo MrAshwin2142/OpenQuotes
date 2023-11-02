@@ -42,6 +42,10 @@ body {
   color: black;
 }
 
+a {
+  color: rgb(5, 90, 23);
+}
+
 .contribute-section {
   display: block;
   position: fixed;
@@ -102,3 +106,4 @@ body {
     font-size: 20px;
   }
 }
+

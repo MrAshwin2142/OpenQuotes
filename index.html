@@ -27,47 +27,7 @@
         >
       </p>
     </div>
-
     <script src="quotes.js"></script>
     <script src="main.js"></script>
-    <script>
-      // Array containing URLs of background images
-      const backgrounds = [
-        "images/20.png",
-        "images/21.png",
-        "images/22.png",
-        "images/23.png",
-        "images/24.png",
-        "images/25.png",
-        "images/26.png",
-        "images/27.png",
-        "images/28.png",
-        "images/29.png",
-        "images/30.png",
-        "images/31.png",
-        "images/32.png",
-        "images/33.png",
-        "images/34.png",
-        "images/35.png",
-        "images/36.png",
-        "images/37.png",
-        "images/38.png",
-        "images/39.png",
-        "images/40.png"
-
-        // Add more background image URLs here
-      ];
-
-      // Function to change the background image
-      function changeBackground() {
-        const randomIndex = Math.floor(Math.random() * backgrounds.length);
-        document.body.style.backgroundImage = `url(${backgrounds[randomIndex]})`;
-      }
-
-      // Change the initial background and every 5 minutes
-      changeBackground(); // Initial change
-      setInterval(changeBackground, 60 * 1000); // Change every 1 minutes
-      //setInterval(changeBackground, 5 * 60 * 1000); Change every 5 minutes
-    </script>
   </body>
 </html>

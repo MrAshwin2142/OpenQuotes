@@ -51,7 +51,12 @@ const quotes = [
         name:"Umar Farouk",
         profilLink:"https://github.com/Fahass",
     },
-    
+    {
+        quote: "I expressed my complaints through a story on fb, insta,... and hoped that the issue would also disappear within 24 hours.",
+        name: "vtkmy",
+        profilLink: "https://github.com/vtkmy",
+    },
+
     // Add more objects with quotes, names, and Profile  links
     // {
     //     quote: "your quote or anything you want to share",

@@ -1,0 +1,101 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "MrAshwin2142",
+      "name": "Ashwin Dhangar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/89156541?v=4",
+      "profile": "https://ashwin-portfolioo.netlify.app/#",
+      "contributions": [
+        "code",
+        "content",
+        "design",
+        "ideas"
+      ]
+    },
+    {
+      "login": "codeGallery01",
+      "name": "codeGallery01",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149365387?v=4",
+      "profile": "https://github.com/codeGallery01",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "JohnPatrickAncajas",
+      "name": "Patrick",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143093214?v=4",
+      "profile": "https://github.com/JohnPatrickAncajas",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Delta7Actual",
+      "name": "Delta7Actual",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142044822?v=4",
+      "profile": "https://github.com/Delta7Actual",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "VveksGit",
+      "name": "Vivek Mandloi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/140075634?v=4",
+      "profile": "https://github.com/VveksGit",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "devraushan",
+      "name": "devraushan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100012376?v=4",
+      "profile": "https://github.com/devraushan",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "YeiHuynh",
+      "name": "YeiHuynh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106680051?v=4",
+      "profile": "https://github.com/YeiHuynh",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "HTQun",
+      "name": "HTQun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/141793785?v=4",
+      "profile": "https://github.com/HTQun",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "pheb2014939ctu",
+      "name": "pheb2014939",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97354858?v=4",
+      "profile": "https://github.com/pheb2014939ctu",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "OpenQuotes",
+  "projectOwner": "MrAshwin2142"
+}

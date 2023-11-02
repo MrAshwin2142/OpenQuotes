@@ -1,25 +1,45 @@
+p {
+  font-size: 1em;
+  line-height: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: #000080;
+}
+
+a:hover {
+  color: #0303d4;
+}
+
 body {
-  font-family: "Courier New", Courier, monospace;
-  background-image: url(images/Background\ sakura\ image.jpg);
+  font-family: "Arial, Helvetica, sans-serif";
+  /* background-image: url(images/25.png); */
   background-attachment: fixed;
+  background-position: center;
   background-size: cover;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100vh;
+  width: 100vw;
   margin: 0;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
 .container {
   text-align: center;
   max-width: 60%;
   margin: 0 auto;
-  color: #333;
-}
-
-h1 {
-  font-size: 34px;
+  color: black;
 }
 
 a {
@@ -31,19 +51,29 @@ a {
   position: fixed;
   bottom: 20px;
   text-align: center;
-  font-size: 18px;
 }
 
 .contribute-section a {
   text-decoration: none;
 }
 
-.contribute-section a:hover {
-  text-decoration: underline;
+.contribute-section p {
+  margin: 0;
 }
+
+#author {
+  text-align: right;
+}
+
 @media screen and (max-width: 480px) {
   .container{
     max-width: 98%;
+  }
+  h1{
+    font-size: 24px;
+  }
+  .contribute-section p {
+    font-size: 12px;
   }
 }
 @media screen and (max-width: 720px) {
@@ -52,4 +82,28 @@ a {
   }
 }
 
+@media screen and (max-width: 300px) {
+  body {
+    font-size: 10px;
+    background-position: right;
+  }
+}
+@media screen and (min-width: 301px) and (max-width: 601px) {
+  body {
+    font-size: 14px;
+    background-position: right;
+  }
+}
+
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+  body {
+    font-size: 18px;
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  body {
+    font-size: 20px;
+  }
+}
 

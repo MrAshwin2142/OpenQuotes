@@ -1,8 +1,50 @@
 # OpenQuotes
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Welcome to OpenQuotes - Share Your Inspiration!**
 
 This project aims to simplify and guide the way beginners make their first open source contribution. If you're looking to contribute your favorite quotes and be part of our journey to inspire the world, follow the steps below.
+
+**Live App Link:** [OpenQuotes Live App](https://mrashwin2142.github.io/OpenQuotes/)
+
+## Contributors
+Thanks to all our amazing contributors who have helped make OpenQuotes an inspiring and collaborative project!
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://ashwin-portfolioo.netlify.app/#"><img src="https://avatars.githubusercontent.com/u/89156541?v=4?s=100" width="100px;" alt="Ashwin Dhangar"/><br /><sub><b>Ashwin Dhangar</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=MrAshwin2142" title="Code">💻</a> <a href="#content-MrAshwin2142" title="Content">🖋</a> <a href="#design-MrAshwin2142" title="Design">🎨</a> <a href="#ideas-MrAshwin2142" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/codeGallery01"><img src="https://avatars.githubusercontent.com/u/149365387?v=4?s=100" width="100px;" alt="codeGallery01"/><br /><sub><b>codeGallery01</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=codeGallery01" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JohnPatrickAncajas"><img src="https://avatars.githubusercontent.com/u/143093214?v=4?s=100" width="100px;" alt="Patrick"/><br /><sub><b>Patrick</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=JohnPatrickAncajas" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Delta7Actual"><img src="https://avatars.githubusercontent.com/u/142044822?v=4?s=100" width="100px;" alt="Delta7Actual"/><br /><sub><b>Delta7Actual</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=Delta7Actual" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/VveksGit"><img src="https://avatars.githubusercontent.com/u/140075634?v=4?s=100" width="100px;" alt="Vivek Mandloi"/><br /><sub><b>Vivek Mandloi</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=VveksGit" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/devraushan"><img src="https://avatars.githubusercontent.com/u/100012376?v=4?s=100" width="100px;" alt="devraushan"/><br /><sub><b>devraushan</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=devraushan" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/YeiHuynh"><img src="https://avatars.githubusercontent.com/u/106680051?v=4?s=100" width="100px;" alt="YeiHuynh"/><br /><sub><b>YeiHuynh</b></sub></a><br /><a href="#ideas-YeiHuynh" title="Ideas, Planning, & Feedback">🤔</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/HTQun"><img src="https://avatars.githubusercontent.com/u/141793785?v=4?s=100" width="100px;" alt="HTQun"/><br /><sub><b>HTQun</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=HTQun" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pheb2014939ctu"><img src="https://avatars.githubusercontent.com/u/97354858?v=4?s=100" width="100px;" alt="pheb2014939"/><br /><sub><b>pheb2014939</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=pheb2014939ctu" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## How to Contribute
 <img align="right" width="300" src="images/fork.png" alt="fork this repository" />
@@ -27,6 +69,11 @@ For example:
 
 ```shell
 git clone git@github.com:this-is-you/openquotes.git
+```
+
+Install project: 
+```
+git clone https://github.com/MrAshwin2142/OpenQuotes.git
 ```
 ### 3. Create a Branch
 Change to the repository directory on your computer (if you're not already there):
@@ -62,9 +109,20 @@ git push -u origin add-your-name
 ```
 
 ### 6. Create a Pull Request
-Navigate to your GitHub repository.
-Click the "Pull Request" button.
-Follow the prompts to create a pull request.
+
+  1. On GitHub.com, navigate to the main page of the repository.
+
+  2. In the "Branch" menu, choose the branch that contains your commits.
+
+  3. Above the list of files, in the yellow banner, click Compare & pull request to create a pull request for the associated branch.
+
+  4. Use the base branch dropdown menu to select the branch you'd like to merge your changes into, then use the compare branch drop-down menu to choose the topic branch you made your changes in.
+
+  5. ype a title and description for your pull request.
+
+  6. To create a pull request that is ready for review, click Create Pull Request. To create a draft pull request, use the drop-down and select Create Draft Pull Request, then click Draft Pull Request. For more information about draft pull requests, see "About pull requests."
+
+After your pull request has been reviewed, it can be merged into the repository.
 
 ### 7. Celebrate Your Contribution
 You've completed the standard fork, clone, edit, and pull request workflow. Congrats on your contribution to OpenQuotes! Share your contribution with friends and followers and celebrate your open source journey.

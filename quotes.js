@@ -67,4 +67,9 @@ const quotes = [
     //     name: "your name",
     //     profilLink: "https://github.com/your-github",
     // },
+    {
+    quote: "Everything has beauty, but not everyone sees it.",
+    name: "Tran Vinh Hung",
+    githubLink: "https://github.com/vinhhung0306"
+},
 ];

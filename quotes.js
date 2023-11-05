@@ -61,6 +61,11 @@ const quotes = [
         name: "Nimish Toshniwal",
         profilLink: "https://github.com/NimishToshniwal",
     },
+    {
+    quote: "Everything has beauty, but not everyone sees it.",
+    name: "Tran Vinh Hung",
+    githubLink: "https://github.com/vinhhung0306"
+    },
     // Add more objects with quotes, names, and Profile  links
     // {
     //     quote: "your quote or anything you want to share",

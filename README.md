@@ -1,6 +1,6 @@
 # OpenQuotes
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Welcome to OpenQuotes - Share Your Inspiration!**
@@ -32,6 +32,7 @@ Thanks to all our amazing contributors who have helped make OpenQuotes an inspir
       <td align="center" valign="top" width="14.28%"><a href="http://fahass.github.io/Portfolio"><img src="https://avatars.githubusercontent.com/u/120847330?v=4?s=100" width="100px;" alt="Umar Farouk"/><br /><sub><b>Umar Farouk</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=Fahass" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/vtkmy"><img src="https://avatars.githubusercontent.com/u/131514773?v=4?s=100" width="100px;" alt="vtkmy"/><br /><sub><b>vtkmy</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=vtkmy" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/NimishToshniwal"><img src="https://avatars.githubusercontent.com/u/85169722?v=4?s=100" width="100px;" alt="NimishToshniwal"/><br /><sub><b>NimishToshniwal</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=NimishToshniwal" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/vinhhung0306"><img src="https://avatars.githubusercontent.com/u/141794237?v=4?s=100" width="100px;" alt="vinhhung0306"/><br /><sub><b>vinhhung0306</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=vinhhung0306" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>

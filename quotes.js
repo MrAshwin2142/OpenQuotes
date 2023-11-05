@@ -59,7 +59,7 @@ const quotes = [
     {
         quote: "When we strive to become better than we are, everything around us becomes better too. — Paulo Coelho",
         name: "Nimish Toshniwal",
-        profilLink: "https://github.com/vtkmy",
+        profilLink: "https://github.com/NimishToshniwal",
     },
     // Add more objects with quotes, names, and Profile  links
     // {

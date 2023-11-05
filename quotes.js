@@ -66,6 +66,16 @@ const quotes = [
         name: "Tran Vinh Hung",
         githubLink: "https://github.com/vinhhung0306",
     },
+    {
+        quote: "Only those who believe their own path will eventually shine until their lives burn out",
+        name: "Kertyn",
+        githubLink: "https://github.com/kertyn1",
+    },
+    {
+        quote: "People say nothing is impossible, but I do nothing every day. — Winnie the Pooh",
+        name: "Kertyn",
+        githubLink: "https://github.com/kertyn1",
+    },
     // Add more objects with quotes, names, and Profile  links
     // {
     //     quote: "your quote or anything you want to share",

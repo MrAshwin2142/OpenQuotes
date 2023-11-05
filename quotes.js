@@ -78,7 +78,7 @@ const quotes = [
     },
     {
         quote: "Life is Roblox, don't let it stop you! — DJ Khaled",
-        name: "WD_master",
+        name: "WD_master235",
         githubLink: "https://github.com/WDmaster235",
     },
     

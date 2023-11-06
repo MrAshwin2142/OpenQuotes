@@ -76,6 +76,12 @@ const quotes = [
         name: "Kertyn",
         githubLink: "https://github.com/kertyn1",
     },
+    {
+        quote: "Life is Roblox, don't let it stop you! — DJ Khaled",
+        name: "WD_master235",
+        githubLink: "https://github.com/WDmaster235",
+    },
+    
     // Add more objects with quotes, names, and Profile  links
     // {
     //     quote: "your quote or anything you want to share",

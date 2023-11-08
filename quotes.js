@@ -98,14 +98,15 @@ const quotes = [
     githubLink: "https://github.com/WDmaster235",
   },
   {
-    quote: "Be Yourself",
-    name: "Huynh Tran Tuan Ngoc",
-    profilLink: "https://github.com/your-github",
-  },
+    quote: "Not a single crack can heal as it was",
+    name: "Nguyen Dat Phuong Dung",
+    profilLink: "https://github.com/ndpdung25",
+   },
   // Add more objects with quotes, names, and Profile  links
   // {
   //     quote: "your quote or anything you want to share",
   //     name: "your name",
   //     profilLink: "https://github.com/your-github",
   // },
+    
 ];

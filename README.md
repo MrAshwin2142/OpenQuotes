@@ -1,6 +1,6 @@
 # OpenQuotes
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Welcome to OpenQuotes - Share Your Inspiration!**
@@ -37,6 +37,7 @@ Thanks to all our amazing contributors who have helped make OpenQuotes an inspir
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/WDmaster235"><img src="https://avatars.githubusercontent.com/u/131697799?v=4?s=100" width="100px;" alt="WDmaster235"/><br /><sub><b>WDmaster235</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=WDmaster235" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ndpdung25"><img src="https://avatars.githubusercontent.com/u/141980860?v=4?s=100" width="100px;" alt="ndpdung25"/><br /><sub><b>ndpdung25</b></sub></a><br /><a href="https://github.com/MrAshwin2142/OpenQuotes/commits?author=ndpdung25" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>

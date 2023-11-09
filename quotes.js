@@ -101,6 +101,13 @@ const quotes = [
     quote: "Not a single crack can heal as it was",
     name: "Nguyen Dat Phuong Dung",
     profilLink: "https://github.com/ndpdung25",
+  },
+  
+
+   {
+    quote: "A person who never made a mistake never tried anything new.",
+    name: "Albert Einstein",
+    profilLink: "https://github.com/Shoyebaktar-shirol",
    },
   // Add more objects with quotes, names, and Profile  links
   // {

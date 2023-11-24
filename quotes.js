@@ -109,6 +109,12 @@ const quotes = [
     name: "Albert Einstein",
     profilLink: "https://github.com/Shoyebaktar-shirol",
    },
+
+   {
+     quote:"The greatest trick the devil ever played was convincing the world that he did not exist.",
+     name:"kevin spacey",
+     profilLink:"https://github.com/cmdCrusaderr",
+   },
   // Add more objects with quotes, names, and Profile  links
   // {
   //     quote: "your quote or anything you want to share",

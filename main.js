@@ -88,3 +88,12 @@ function changeBackground() {
 changeBackground(); // Initial change
 setInterval(changeBackground, 60 * 1000); // Change every 1 minute
 
+
+  // Function to get a new quot
+  function getNewQuote() {
+    var randomIndex = Math.floor(Math.random() * quotes.length);
+    var randomQuote = quotes[randomIndex];
+    document.getElementById("quote").innerHTML = randomQuote.text;
+    document.getElementById("author").innerHTML = "- " + randomQuote.author;
+  }
+

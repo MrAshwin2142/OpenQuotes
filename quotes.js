@@ -6,8 +6,7 @@ const quotes = [
     profilLink: "https://github.com/MrAshwin2142",
   },
   {
-    quote:
-      "Stop dreaming big and start with small actions, just like I did for my first open-source contribution.",
+    quote: "Stop dreaming big and start with small actions, just like I did for my first open-source contribution.",
     name: "Code Gallery",
     profilLink: "https://www.linkedin.com/company/code-gallery01/",
   },
@@ -17,26 +16,22 @@ const quotes = [
     profilLink: "https://github.com/MrAshwin2142",
   },
   {
-    quote:
-      "Just trying to learn how to use Git and Github properly by contributing.",
+    quote: "Just trying to learn how to use Git and Github properly by contributing.",
     name: "Vivek Mandloi",
     profilLink: "https://github.com/VveksGit/",
   },
   {
-    quote:
-      "The stars above remind us that even the smallest lights can illuminate the darkest skies.",
+    quote: "The stars above remind us that even the smallest lights can illuminate the darkest skies.",
     name: "John Patrick Ancajas",
     profilLink: "https://github.com/JohnPatrickAncajas",
   },
   {
-    quote:
-      "Learn as if you will live forever, live like you will die tomorrow. — Mahatma Gandhi",
+    quote: "Learn as if you will live forever, live like you will die tomorrow. — Mahatma Gandhi",
     name: "Delta7Actual",
     profilLink: "https://github.com/Delta7Actual",
   },
   {
-    quote:
-      "It is often the small steps, not the giant leaps, that bring about the most lasting change. - Elizabeth",
+    quote: "It is often the small steps, not the giant leaps, that bring about the most lasting change. - Elizabeth",
     name: "Umar Farouk",
     profilLink: "https://github.com/Fahass",
   },
@@ -46,20 +41,17 @@ const quotes = [
     profilLink: "https://github.com/Fahass",
   },
   {
-    quote:
-      "If you want to lift yourself up, lift up someone else. - Chadwick Bossman",
+    quote: "If you want to lift yourself up, lift up someone else. - Chadwick Bossman",
     name: "Umar Farouk",
     profilLink: "https://github.com/Fahass",
   },
   {
-    quote:
-      "You’re braver than you believe, stronger than you seem, and smarter than you think. - Ameer Fahass",
+    quote: "You’re braver than you believe, stronger than you seem, and smarter than you think. - Ameer Fahass",
     name: "Umar Farouk",
     profilLink: "https://github.com/Fahass",
   },
   {
-    quote:
-      "Once you face your fear, nothing is ever as hard as you think. - Ameer Fahass",
+    quote: "Once you face your fear, nothing is ever as hard as you think. - Ameer Fahass",
     name: "Umar Farouk",
     profilLink: "https://github.com/Fahass",
   },
@@ -70,8 +62,7 @@ const quotes = [
     profilLink: "https://github.com/vtkmy",
   },
   {
-    quote:
-      "When we strive to become better than we are, everything around us becomes better too. — Paulo Coelho",
+    quote: "When we strive to become better than we are, everything around us becomes better too. — Paulo Coelho",
     name: "Nimish Toshniwal",
     profilLink: "https://github.com/NimishToshniwal",
   },
@@ -81,14 +72,12 @@ const quotes = [
     githubLink: "https://github.com/vinhhung0306",
   },
   {
-    quote:
-      "Only those who believe their own path will eventually shine until their lives burn out",
+    quote: "Only those who believe their own path will eventually shine until their lives burn out",
     name: "Kertyn",
     githubLink: "https://github.com/kertyn1",
   },
   {
-    quote:
-      "People say nothing is impossible, but I do nothing every day. — Winnie the Pooh",
+    quote: "People say nothing is impossible, but I do nothing every day. — Winnie the Pooh",
     name: "Kertyn",
     githubLink: "https://github.com/kertyn1",
   },
@@ -102,24 +91,25 @@ const quotes = [
     name: "Nguyen Dat Phuong Dung",
     profilLink: "https://github.com/ndpdung25",
   },
-  
-
-   {
+  {
     quote: "A person who never made a mistake never tried anything new.",
     name: "Albert Einstein",
     profilLink: "https://github.com/Shoyebaktar-shirol",
-   },
-
-   {
-     quote:"The greatest trick the devil ever played was convincing the world that he did not exist.",
-     name:"kevin spacey",
-     profilLink:"https://github.com/cmdCrusaderr",
-   },
+  },
+  {
+    quote: "The greatest trick the devil ever played was convincing the world that he did not exist.",
+    name: "kevin spacey",
+    profilLink: "https://github.com/cmdCrusaderr",
+  },
+  {
+    quote: "Your code is your legacy, make it a good one.",
+    name: "Dominic Esguerra",
+    profilLink: "https://github.com/dominic-myb",
+  },
   // Add more objects with quotes, names, and Profile  links
   // {
   //     quote: "your quote or anything you want to share",
   //     name: "your name",
   //     profilLink: "https://github.com/your-github",
   // },
-    
 ];
